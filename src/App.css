@@ -1,0 +1,189 @@
+/*
+Order of content
+----Body--------
+----Nav Bar-----
+----Banner------
+----Skills------
+----News Letter-
+----Cards-------
+----Footer------
+----Projects----
+*/
+
+/*Body*/
+.App {
+  /* background-color: tan; */
+  color: white;
+  font-family: 'Caveat', cursive;
+  background-image: url( "./assets/bgpic2.jpg");
+}
+/*Nav Bar*/
+.nav{
+  /* bg="dark"
+  /* background-color: #30106b;
+  opacity: 0.2; */
+  box-shadow: 20px;
+}
+#logotext{
+  font-family: 'Dancing Script', cursive !important;
+  font-size: 50px;
+}
+/*Banner*/
+.banner{
+  background-image: url("./assets/bgpic4.jpg");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* height: 400px; */
+  
+}
+.banner h1 {
+  font-family: 'Amatic SC', cursive !important;
+  text-align: left;
+  color: white;
+  display: block;
+  margin: 20px;
+  padding-top: 50px;
+}
+.banner h2{
+  font-family: 'Amatic SC', cursive !important;
+  text-align: left;
+  color: white;
+  display: block;
+  margin: 20px;
+}
+/* bannerpic{
+  height: 400px;
+  width: 400px;
+} */
+/*Skills*/
+.skills{
+  padding:0 0 50px 0;
+  position: relative;
+  margin-left:100px ;
+  margin-right: 100px;
+}
+.skillbox{
+  background-color: #30106b;
+  border-radius: 50px;
+  text-align: center;
+  padding: 50px;
+  margin-top: -50px;
+}
+.skills h1{
+  font-size: 45px;
+  color: white;
+
+}
+.skills h3{
+  color: white;
+  font-size: 20px;
+  margin: 14px 0 75px 0;
+} 
+.slider{
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* .slider item{
+  width: 50%;
+  margin: 50px;
+  padding: 50px;
+} */
+
+.slider img{
+  width: 200px;
+  height: 200px;
+/* 
+  @media screen and (max-width: 716px)
+  width: 100px;
+  height: 100px;
+
+  @media screen and (max-width: 400px)
+  width: 100px;
+  height: 100px; */
+}
+/*NewsLetter*/
+.newsletter{
+  border: white 1px solid;
+  border-radius: 15px;
+  align-content: center;
+  padding: 20px;
+  margin: 25px;
+  
+}
+/*Projects*/
+.align{
+  text-align: center;
+  margin-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.boxshadow:hover{
+  /* position: absolute; */
+  margin-left: 2px;
+  margin-right: 2px;
+  /* box-shadow: 1px 3px 5px ; */
+}
+
+/*Footer*/
+.footerheight{
+  height: fit-content;
+  
+}
+.footerlogo{
+  font-family: 'Dancing Script', cursive !important;
+  font-size: 50px;
+  padding-left: 20px;
+  color: white;
+}
+.icons{
+  padding-right: 12px;
+  font-size: 25px;
+}
+.footmargin{
+  margin: 20px;
+}
+
+/* Projects */
+.heightwidth{
+  height: 150px;
+  width: 500px;
+}
+
+
+/*.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/
