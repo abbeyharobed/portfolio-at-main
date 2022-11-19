@@ -1,11 +1,13 @@
 //import { Container } from "react-bootstrap";
-import LeftCard from "../components/leftcard";
-import RightCard from "../components/rightcard";
+// import LeftCard from "../components/leftcard";
+// import RightCard from "../components/rightcard";
 import Calculator from "../components/calculator";
 import Signup from "../components/signup";
 import Schomed from "../components/schomed";
 import Dinogame from "../components/dinogame";
 import Signupsignin from "../components/signupsignin";
+import Cranessold from "../components/cranessold";
+import Cranessnew from "../components/cranessnew";
 
 function  Projects() {
     return (
@@ -23,6 +25,11 @@ function  Projects() {
         <Dinogame></Dinogame>
         <hr/>
         <Signupsignin></Signupsignin>
+        <hr/>
+        <Cranessold></Cranessold>
+        <hr/>
+        <Cranessnew></Cranessnew>
+
      </>
     );
   }

@@ -48,12 +48,12 @@ function Skills() {
                       <div className="item" >
                       <img src={meter60} alt="something"/>
                           <h5> UI/UX Design </h5>
-                          <p>Figma</p>
+                          <p>Figma, Canva</p>
                       </div>
                       <div className="item" >
                       <img src={meter80} alt="something"/>
                           <h5>Google Suite </h5>
-                          <p>Gmail, Gmeet, </p>
+                          <p>Gmail, Gmeet, Docs, Sheets, Slides</p>
                       </div>
                       <div className="item" >
                       <img src={meter80} alt="something"/>
@@ -63,7 +63,7 @@ function Skills() {
                       <div className="item" >
                       <img src={meter70} alt="something"/>
                           <h5>Adobe Suite </h5>
-                          <p>Acrobat, Scan</p>
+                          <p>Acrobat, Scan, Figma</p>
                       </div>
                      
                   </Carousel>
