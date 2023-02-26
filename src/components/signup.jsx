@@ -20,7 +20,7 @@ function Signup() {
         <Col sm={5}>
             <h1> Sign Up Form </h1>
             <p>A Sign up form template using HTML, CSS and vanilla JS with validation </p>
-            <Button variant="outline-light" href="https://sign-up-form-production.up.railway.app/"> Check it out </Button>
+            <Button variant="outline-light" href="https://abbeyharobed.github.io/Sign-up-form/"> Check it out </Button>
         </Col>
       </Row>
 

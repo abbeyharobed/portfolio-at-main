@@ -42,7 +42,7 @@ function Skills() {
                       </div>
                       <div className="item" >
                       <img src={meter60} alt="something"/>
-                          <h5>Product Mangagement </h5>
+                          <h5>Product / Project Mangagement </h5>
                           <p>ClickUp, Trello</p>
                       </div>
                       <div className="item" >

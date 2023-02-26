@@ -20,7 +20,7 @@ function Calculator() {
         <Col sm={5}>
             <h1> Calculator</h1>
             <p>A calculator application built with HTML, CSS and JavaScript</p>
-            <Button variant="outline-light" href="https://calculator-production-1f01.up.railway.app/"> Check it out </Button>
+            <Button variant="outline-light" href="https://abbeyharobed.github.io/calculator/"> Check it out </Button>
         </Col>
       </Row>
 

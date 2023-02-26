@@ -20,7 +20,7 @@ function Signupsignin() {
         <Col sm={5}>
             <h1> Registeration & Log In form</h1>
             <p>A registeration and log in template built with simple html, css and Javascript and confimation pages</p>
-            <Button variant="outline-light" href="https://sign-up-sign-in-production.up.railway.app/"> Check it out </Button>
+            <Button variant="outline-light" href="https://abbeyharobed.github.io/sign-up-sign-in/"> Check it out </Button>
         </Col>
       </Row>
 

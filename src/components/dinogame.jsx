@@ -12,7 +12,7 @@ function Dinogame() {
         <Col sm={5}>
             <h1>Dinogame</h1>
             <p> A more challenging replica attempt of the chrome dino game with simple shapes </p>
-            <Button variant="outline-light" href="https://dino-game-production.up.railway.app/"> Check it out </Button>
+            <Button variant="outline-light" href="https://abbeyharobed.github.io/dino-game/"> Check it out </Button>
             <br/>
         </Col>
         <Col sm={7} bg="dark">
