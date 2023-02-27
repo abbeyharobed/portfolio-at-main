@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-at-main/static/css/main.03b98eee.css",
+    "main.js": "/portfolio-at-main/static/js/main.cbe62650.js",
+    "static/js/787.5480e000.chunk.js": "/portfolio-at-main/static/js/787.5480e000.chunk.js",
+    "static/media/writing6.jpg": "/portfolio-at-main/static/media/writing6.9ea49a7c62d27229f7c3.jpg",
+    "static/media/calc3.jpg": "/portfolio-at-main/static/media/calc3.4cffcab2276ee388f606.jpg",
+    "static/media/game3.jpg": "/portfolio-at-main/static/media/game3.577329926090cba4f29a.jpg",
+    "static/media/writing7.jpg": "/portfolio-at-main/static/media/writing7.f3a9c5cf106bcb54888d.jpg",
+    "static/media/meter80.png": "/portfolio-at-main/static/media/meter80.df845a2dfac21cfc465c.png",
+    "static/media/meter60.png": "/portfolio-at-main/static/media/meter60.ed43c5442caf92a2f380.png",
+    "static/media/meter70.png": "/portfolio-at-main/static/media/meter70.53b78891da94b876848d.png",
+    "static/media/bgpic4.jpg": "/portfolio-at-main/static/media/bgpic4.0f266ae8f3c63a76bfac.jpg",
+    "static/media/bgpic2.jpg": "/portfolio-at-main/static/media/bgpic2.52b22dbe4d78fb40a974.jpg",
+    "static/media/nurse3.png": "/portfolio-at-main/static/media/nurse3.7cdc8a872fcfecfdb1b1.png",
+    "static/media/cranessnew.png": "/portfolio-at-main/static/media/cranessnew.a1eb0f18e3ff2973b864.png",
+    "static/media/bitmoji2removebg.png": "/portfolio-at-main/static/media/bitmoji2removebg.d202508d5197c0b42f7d.png",
+    "static/media/cranessold2.png": "/portfolio-at-main/static/media/cranessold2.9d85ec638852be27f459.png",
+    "static/media/revicons.eot": "/portfolio-at-main/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-at-main/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-at-main/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio-at-main/index.html",
+    "main.03b98eee.css.map": "/portfolio-at-main/static/css/main.03b98eee.css.map",
+    "main.cbe62650.js.map": "/portfolio-at-main/static/js/main.cbe62650.js.map",
+    "787.5480e000.chunk.js.map": "/portfolio-at-main/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03b98eee.css",
+    "static/js/main.cbe62650.js"
+  ]
+}
